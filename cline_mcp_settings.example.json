@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "algorover-research": {
+      "type": "streamableHttp",
+      "url": "https://research.algorover.ai/mcp",
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
